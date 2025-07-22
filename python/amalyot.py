@@ -7,7 +7,7 @@
 def tugilgan_yil_hisobla(ism, yosh):
 	ism = input('Ismingizni yozing...')
 	yosh = input('yoshingizni kiriting')
-	print(f"{ism} ning yoshi {}")
+	print(f"{ism} ning yoshi {yosh}")
 
 #   2.  Foydalanuvchidan son olib, uning kvadrati va kubini konsolga chiqaruvchi funksiya yozing.
 
