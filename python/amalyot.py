@@ -25,3 +25,4 @@ def tugilgan_yil_hisobla(ism, yosh):
 
 # Kutilgan natijaga misol
 
+print("Salom, dunyo!")  # Salom, dunyo! deb chiqishi kerak	

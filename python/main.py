@@ -26,17 +26,17 @@
 # toliq_ism("ali", "valiyev")  # Foydalanuvchi ismi va familiyasini kiritamiz
 # toliq_ism("vali", "qodirov")  # Boshqa foydalanuvchi ismi va familiyasini kiritamiz	
 
-def yosh_hisobla(ism, tugilgan_yil):
-	"""Foydalanuvchi ismi va tug'ilgan yilini qabul qilib, yoshini hisoblaydi."""
-	yosh = 2025 - tugilgan_yil  # Hozirgi yil 2025 deb olamiz
-	print(f"{ism.title()}ning yoshi: - {2025-tugilgan_yil}da")
+# def yosh_hisobla(ism, tugilgan_yil):
+# 	"""Foydalanuvchi ismi va tug'ilgan yilini qabul qilib, yoshini hisoblaydi."""
+# 	yosh = 2025 - tugilgan_yil  # Hozirgi yil 2025 deb olamiz
+# 	print(f"{ism.title()}ning yoshi: - {2025-tugilgan_yil}da")
 
-yosh_hisobla(tugilgan_yil=2000, ism='ali')  # Foydalanuvchi ismi va tug'ilgan yilini kiritamiz
-yosh_hisobla(ism='umar', tugilgan_yil=1994)  # Boshqa foydalanuvchi ismi va tug'ilgan yilini kiritamiz
+# yosh_hisobla(tugilgan_yil=2000, ism='ali')  # Foydalanuvchi ismi va tug'ilgan yilini kiritamiz
+# yosh_hisobla(ism='umar', tugilgan_yil=1994)  # Boshqa foydalanuvchi ismi va tug'ilgan yilini kiritamiz
 
-def yosh_hisoblaa(tugilgan_yil, joriy_yil=2025):
-	"""Foydalanuvchi tug'ilgan yilini qabul qilib, yoshini hisoblaydi."""
-	print(f"Siz {joriy_yil - tugilgan_yil} yoshdasiz.")
+# def yosh_hisoblaa(tugilgan_yil, joriy_yil=2025):
+# 	"""Foydalanuvchi tug'ilgan yilini qabul qilib, yoshini hisoblaydi."""
+# 	print(f"Siz {joriy_yil - tugilgan_yil} yoshdasiz.")
 
-yosh_hisoblaa(2000)  # Foydalanuvchi tug'ilgan yilini kiritamiz
+# yosh_hisoblaa(2000)  # Foydalanuvchi tug'ilgan yilini kiritamiz
 
