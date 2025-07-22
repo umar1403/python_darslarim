@@ -1,1 +1,1 @@
-# python_darslarim
+bu erda python kodlarim qoyib boriladi
